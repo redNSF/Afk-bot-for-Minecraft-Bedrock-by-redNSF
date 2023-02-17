@@ -33,7 +33,7 @@ First Install bedrock-protocol with npm
 To deploy this project run
 
 ```bash
-  node .
+  node bot.js
 ```
 
 
